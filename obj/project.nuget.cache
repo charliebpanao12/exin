@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ThJ+HWhA/7l0WxpVCmTU568G4Js+x4pZthxFF6yE7jOOsS69UwA6+UiZyGAshuTF+8VbdJXvi7ueUjJ+eAOkg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Visual Studio\\C# 2019\\EXIN\\EXIN\\EXIN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charlie\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\deltacompressiondotnet\\1.1.0\\deltacompressiondotnet.1.1.0.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\guna.charts.winforms\\1.0.4\\guna.charts.winforms.1.0.4.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\nuget.commandline\\6.3.1\\nuget.commandline.6.3.1.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\sharpcompress\\0.17.1\\sharpcompress.0.17.1.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\squirrel.windows\\2.0.1\\squirrel.windows.2.0.1.nupkg.sha512",
+    "C:\\Users\\Charlie\\.nuget\\packages\\zeroit.framework.transitions\\1.0.2\\zeroit.framework.transitions.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

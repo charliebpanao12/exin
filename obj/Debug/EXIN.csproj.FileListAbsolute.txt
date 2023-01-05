@@ -1,0 +1,1339 @@
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.csprojAssemblyReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\EXIN.exe.config
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Guna.UI2.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\MySql.Data.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\SharpCompress.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Buffers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Memory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\stdole.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\MySql.Data.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Buffers.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Memory.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\EXIN.exe.config
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Guna.UI2.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\MySql.Data.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\SharpCompress.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Buffers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Memory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\stdole.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\MySql.Data.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Buffers.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Memory.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\EXIN.exe.config
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Guna.UI2.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\MySql.Data.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\SharpCompress.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Buffers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Memory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\stdole.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\MySql.Data.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Buffers.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Memory.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\SAMPLE\EXIN\obj\Debug\EXIN.csprojAssemblyReference.cache
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\EXIN.exe.config
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\EXIN.exe
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\EXIN.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Guna.UI2.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\MySql.Data.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\SharpCompress.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Squirrel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Buffers.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Memory.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\stdole.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\MySql.Data.xml
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\Squirrel.pdb
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Buffers.xml
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Memory.xml
+C:\Users\Accounting Office\Desktop\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.exe
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.pdb
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCSL.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCSL.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.exe.config
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Guna.UI2.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\MySql.Data.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\SharpCompress.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Buffers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Memory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\stdole.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\MySql.Data.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Buffers.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Memory.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCSL.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\NBVINTA\EXIN\obj\Debug\EXIN.csprojAssemblyReference.cache
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+C:\Users\Accounting Office\Desktop\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\EXIN.exe.config
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\EXIN.exe
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\EXIN.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Guna.UI2.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\MySql.Data.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\SharpCompress.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Squirrel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Buffers.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Memory.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\stdole.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\MySql.Data.xml
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\Squirrel.pdb
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Buffers.xml
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Memory.xml
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmPreloader.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCSL.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCDashboard.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.exe
+C:\Users\Accounting Office\Desktop\NBVinta\EXIN\obj\Debug\EXIN.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.exe.config
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.exe
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\EXIN.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\BCrypt.Net-Next.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Guna.UI2.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\NuGet.Squirrel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\SharpCompress.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Squirrel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Buffers.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Memory.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\BCrypt.Net-Next.xml
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\NuGet.Squirrel.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\Squirrel.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Buffers.xml
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Memory.xml
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmController.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmPreloader.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmSignUp.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmViewer.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmAlert.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmPayees.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmEXIN.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCSL.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCSOA.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCBS.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCDashboard.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCAccounting.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.exe
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.pdb
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCTemplates.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCUpload.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCLastYear_Upload.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCOperatingDays.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\stdole.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCARAging.resources
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.AssemblyReference.cache
+D:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCFS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.csproj.AssemblyReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCARAging.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCLastYear_Upload.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCOperatingDays.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCFS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCUpload.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\obj\Debug\EXIN.UCTemplates.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\System.Numerics.Vectors.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\JB Group of Companies\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\EXIN.exe.config
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\BCrypt.Net-Next.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.Shared.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Guna.UI2.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\MySql.Data.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\NuGet.Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\SharpCompress.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Squirrel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Buffers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Memory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Google.Protobuf.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Renci.SshNet.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\stdole.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\BCrypt.Net-Next.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\MySql.Data.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\NuGet.Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Squirrel.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Buffers.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Memory.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Numerics.Vectors.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmController.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmSignUp.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmViewer.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmAlert.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmPayees.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmEXIN.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCARAging.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCLastYear_Upload.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCOperatingDays.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCSL.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCFS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCSOA.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBS.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCAccounting.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCUpload.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCTemplates.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.exe
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.pdb
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.WaitForm.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.WaitFormSmall.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\bin\Debug\Guna.Charts.WinForms.dll
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCHomePage.resources
+C:\Parent Folder\Others\Visual C# and Database\Dabz_RealWorld_Projects\KNC Group Calendar\EXIN\obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\EXIN.exe.config
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\EXIN.exe
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\EXIN.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Google.Protobuf.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\BouncyCastle.Crypto.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Ubiety.Dns.Core.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Renci.SshNet.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\stdole.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\BCrypt.Net-Next.xml
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\MySql.Data.xml
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\NuGet.Squirrel.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\Squirrel.pdb
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\System.Buffers.xml
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\System.Memory.xml
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\System.Numerics.Vectors.xml
+F:\Charlie\KNC Group Calendar\EXIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.AssemblyReference.cache
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmController.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmSignUp.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmViewer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmAlert.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmPayees.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmEXIN.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCARAging.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCLastYear_Upload.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCOperatingDays.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCSL.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCFS.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCSOA.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCBS.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCHomePage.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCAccounting.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCUpload.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.UCTemplates.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.WaitForm.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.WaitFormSmall.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.exe
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.pdb
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.frmAdditem.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.frmFixedAssets_ParentContainer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.ucMasterlist.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryIn_AddNewTransaction.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_Products_NewItem.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_ParentContainer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_Home.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryIn.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryOut.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_Products.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_PurchaseOrder.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_Confirmation.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_Confirmation_Delete.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_Error.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_Information.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_LogOut.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMsgBox_Successful.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmTransparentForm.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Payroll_System.frmPayroll_Employee_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Payroll_System.frmPayroll_ParentContainer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Payroll_System.ucPayroll_EmployeeList.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_DSRAccounts_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_GCAccounts_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_ParentContainer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Home.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_DSRAccounts.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_GCAccounts.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Reports_SalesCertificate.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Settings_Defaults.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Collection.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_DSRRecords.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_GCRecords.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Logs.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Tools.UCOfferings.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Tools.ucToolBox.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Tools.UCUsers.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_AccountClass_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_COA_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_CostCenter_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Payee_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Projects_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Signatories_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_Settings_CheckPrint_Details.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_MainMenu.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_ParentContainer.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Home.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_AccountClass.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_COA.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_CostCenter.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Payee.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Projects.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Signatories.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_APAging.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_ARAging.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_VatInput.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_Wtax.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_Approvers.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_CheckPrint.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingDate.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingEntries.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_DefaultEntries.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_CreateEdit.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_Logs.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_PCF.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_UploadRecords.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_ViewRecords.resources
+F:\Charlie\KNC Group Calendar\EXIN\obj\Debug\EXIN.frmMain.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\EXIN.exe.config
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Google.Protobuf.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Renci.SshNet.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\stdole.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\BCrypt.Net-Next.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Mono.Cecil.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\MySql.Data.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\NuGet.Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\System.Buffers.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\System.Memory.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.frmAdditem.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.frmFixedAssets_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.ucMasterlist.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmController.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmBudgetSetup.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMain.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmSignUp.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmChartofAccounts.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmViewer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmAlert.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmPayees.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmLogInMenu.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmEXIN.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Properties.Resources.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryIn_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_Products_NewItem.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_Home.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryIn.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryOut.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_Products.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_PurchaseOrder.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_Confirmation.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_Confirmation_Delete.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_Error.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_Information.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_LogOut.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmMsgBox_Successful.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmTransparentForm.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Payroll_System.frmPayroll_Employee_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Payroll_System.frmPayroll_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Payroll_System.ucPayroll_EmployeeList.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_DSRAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_GCAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Home.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_DSRAccounts.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_GCAccounts.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Reports_SalesCertificate.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Settings_Defaults.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Collection.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_DSRRecords.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_GCRecords.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCBudgetInputs.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCARAging.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCLastYear_Upload.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCBudget_Projects.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCOperatingDays.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCSL.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCFS.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCSOA.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCExcelMenu.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCFiguresBS.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCCheckVoucher.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCBS.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCHomePage.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCAccounting.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCUpload.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.UCTemplates.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.frmUserLogin.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.WaitForm.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.WaitFormSmall.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Tools.UCOfferings.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Tools.ucToolBox.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Tools.UCUsers.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_AccountClass_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_COA_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_CostCenter_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Payee_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Projects_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Signatories_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_Settings_CheckPrint_Details.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_MainMenu.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Home.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_AccountClass.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_COA.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_CostCenter.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Payee.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Projects.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Signatories.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_APAging.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_ARAging.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_VatInput.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_Wtax.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_Approvers.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_CheckPrint.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingDate.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingEntries.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_DefaultEntries.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_CreateEdit.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_PCF.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_UploadRecords.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_ViewRecords.resources
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.csproj.CopyComplete
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\Charlie\EXIN2022\obj\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\EXIN.exe.config
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\BCrypt.Net-Next.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\DeltaCompressionDotNet.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Guna.Charts.WinForms.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Guna.UI2.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Mono.Cecil.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\SharpCompress.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\NuGet.Squirrel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\NuGet.Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Squirrel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\Zeroit.Framework.Transitions.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\stdole.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.frmAdditem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.frmFixedAssets_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Fixed_Assets_Management_System.ucMasterlist.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmController.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmBudgetSetup.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmDummy.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMain.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmSignUp.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmChartofAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmViewer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmAlert.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmPayees.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmLogInMenu.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmEXIN.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Properties.Resources.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryIn_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_Products_NewItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.frmInventory_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryIn.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryOut.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_Products.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Inventory_System.ucInventory_PurchaseOrder.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_Confirmation.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_Confirmation_Delete.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_Error.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_Information.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_LogOut.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmMsgBox_Successful.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmTransparentForm.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Payroll_System.frmPayroll_Employee_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Payroll_System.frmPayroll_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Payroll_System.ucPayroll_EmployeeList.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmSelectBusinessCategory.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.frmPOS_Payment.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.frmPOS_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_CartItem_2.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_Category.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_Item.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Point_Of_Sales.ucPOS_TransactionRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_DSRAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_GCAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_DSRAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_GCAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Reports_SalesCertificate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Settings_Defaults.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Collection.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_DSRRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_GCRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_AccountClass_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_BusinessCategory_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_BusinessUnit_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_Corporations_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_Projects_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_UserAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_UserCredentials.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_SystemFeatures_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_AccountClass.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_BusinessCategories.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_BusinessUnits.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_ChartOfAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_Corporations.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_Projects.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_SupplierList.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_SystemFeatures.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_UserAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_UserCredentials_BusinessUnits.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_UserCredentials_SystemFeatures.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCBudgetInputs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCARAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCLastYear_Upload.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCBudget_Projects.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCOperatingDays.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCSL.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCFS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCSOA.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCExcelMenu.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCFiguresBS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCCheckVoucher.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCBS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCHomePage.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCAccounting.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCUpload.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.UCTemplates.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.frmUserLogin.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.WaitForm.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.WaitFormSmall.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Tools.UCOfferings.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Tools.ucToolBox.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Tools.UCUsers.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_AccountClass_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_COA_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_CostCenter_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Payee_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Projects_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Signatories_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_Settings_CheckPrint_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_MainMenu.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.frmVoucher_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_AccountClass.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_COA.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_CostCenter.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Payee.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Projects.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_List_Signatories.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_APAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_ARAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_VatInput.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_Wtax.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_Approvers.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_CheckPrint.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingDate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_DefaultEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_CreateEdit.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_PCF.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_UploadRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_ViewRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.csproj.CopyComplete
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_MyAccount.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_Preferences.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_MyAccount_UpdateInfo.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_ChartOfAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_SystemModules.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_ExpandedAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_ExpandedAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_SupplierList_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_SelectionItems_BusinessCategory.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_CostCenter_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_CostCenter.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_ChartOfAccounts_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_AccountClass_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_CostCenter_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.frmSettings_SupplierList_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN2022\EXIN2022\obj\Debug\EXIN.Settings.ucSettings_SupplierList_WTaxReference.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\EXIN.exe.config
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\BCrypt.Net-Next.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\DeltaCompressionDotNet.MsDelta.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\DeltaCompressionDotNet.PatchApi.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\DeltaCompressionDotNet.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Guna.Charts.WinForms.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Guna.UI2.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Mdb.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Pdb.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.Rocks.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Mono.Cecil.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\SharpCompress.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\NuGet.Squirrel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\NuGet.Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Squirrel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Squirrel.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\Zeroit.Framework.Transitions.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\stdole.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.csproj.ResolveComReference.cache
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.frmAdditem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.frmFixedAssets_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Fixed_Assets_Management_System.ucMasterlist.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmController.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmBudgetSetup.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmDummy.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMain.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmSignUp.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmChartofAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmViewer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmAlert.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmPayees.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmLogInMenu.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmEXIN.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Properties.Resources.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryIn_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_Products_NewItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryIn.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryOut.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_Products.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_PurchaseOrder.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_Confirmation.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_Confirmation_Delete.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_Error.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_Information.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_LogOut.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmMsgBox_Successful.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmTransparentForm.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Payroll_System.frmPayroll_Employee_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Payroll_System.frmPayroll_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Payroll_System.ucPayroll_EmployeeList.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmSelectBusinessCategory.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.frmPOS_Payment.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.frmPOS_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_CartItem_2.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_Category.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_NewTransaction_Item.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.ucPOS_TransactionRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_DSRAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_List_GCAccounts_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.frmSalesCollection_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_DSRAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_List_GCAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Reports_SalesCertificate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Settings_Defaults.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Collection.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_DSRRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_GCRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.SalesCollection_System.ucSalesCollection_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_AccountClass_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_AccountClass_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_BusinessCategory_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_BusinessUnit_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_ChartOfAccounts_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_ChartOfAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_Corporations_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_CostCenter_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_CostCenter_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_ExpandedAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_MyAccount_UpdateInfo.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_Projects_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_SupplierList_BatchDuplicate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_SupplierList_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_UserAccounts_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_UserCredentials.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.frmSettings_SystemFeatures_New.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_AccountClass.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_BusinessCategories.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_BusinessUnits.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_ChartOfAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_CostCenter.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_SelectionItems_BusinessCategory.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_Corporations.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_ExpandedAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_MyAccount.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_Preferences.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_Projects.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_SupplierList.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_SupplierList_WTaxReference.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_SystemFeatures.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_SystemModules.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_UserAccounts.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_UserCredentials_BusinessUnits.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Settings.ucSettings_UserCredentials_SystemFeatures.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCBudgetInputs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCARAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCLastYear_Upload.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCBudget_Projects.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCOperatingDays.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCSL.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCFS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCSOA.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCExcelMenu.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCFiguresBS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCAccountingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCCheckVoucher.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCBS.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCHomePage.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCAccounting.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCUpload.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.UCTemplates.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.frmUserLogin.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.WaitForm.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.WaitFormSmall.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Tools.UCOfferings.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Tools.ucToolBox.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Tools.UCUsers.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_List_Signatories_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_Settings_CheckPrint_Details.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.frmVoucher_ParentContainer.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Home.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_APAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_ARAging.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_VatInput.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Reports_Wtax.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_Approvers.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_CheckPrint.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingDate.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_ClosingEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_DefaultEntries.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_CreateEdit.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_Logs.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_PCF.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_UploadRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Transactions_ViewRecords.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.csproj.CopyComplete
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.exe
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.pdb
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_CustomerPurchaseOrder_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_CustomerPurchaseOrder_AddNewTransaction_Quantity.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryIn_AddNewTransaction_Quantity.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryOut_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_InventoryOut_AddNewTransaction_Quantity.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_PurchaseOrder_AddNewTransaction.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.frmInventory_PurchaseOrder_AddNewTransaction_Quantity.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_CustomerPurchaseOrder.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_CustomerPurchaseOrder_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryIn_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_InventoryOut_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Inventory_System.ucInventory_PurchaseOrder_CartItem.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Voucher_System.ucVoucher_Settings_Signatories.resources
+D:\Projects\Visual Studio\C# 2019\EXIN\EXIN\obj\Debug\EXIN.Point_Of_Sales.frmPritPreviewReceipt.resources

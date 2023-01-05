@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EXIN</id>
+    <version>5.0.2</version>
+    <authors>Jeremiah dela Rosa</authors>
+    <owners>EXINNOV</owners>
+    <description>EXIN</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright ©  2020</copyright>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.*" target="lib\net45\" exclude="*.pdb;*.vshost.*"/>
+  </files>
+</package>

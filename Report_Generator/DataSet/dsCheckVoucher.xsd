@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCheckVoucher" targetNamespace="http://tempuri.org/dsCheckVoucher.xsd" xmlns:mstns="http://tempuri.org/dsCheckVoucher.xsd" xmlns="http://tempuri.org/dsCheckVoucher.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCheckVoucher" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCheckVoucher" msprop:Generator_UserDSName="dsCheckVoucher">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CheckVoucher" msprop:Generator_TableClassName="CheckVoucherDataTable" msprop:Generator_TableVarName="tableCheckVoucher" msprop:Generator_TablePropName="CheckVoucher" msprop:Generator_RowDeletingName="CheckVoucherRowDeleting" msprop:Generator_RowChangingName="CheckVoucherRowChanging" msprop:Generator_RowEvHandlerName="CheckVoucherRowChangeEventHandler" msprop:Generator_RowDeletedName="CheckVoucherRowDeleted" msprop:Generator_UserTableName="CheckVoucher" msprop:Generator_RowChangedName="CheckVoucherRowChanged" msprop:Generator_RowEvArgName="CheckVoucherRowChangeEvent" msprop:Generator_RowClassName="CheckVoucherRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="seq_No" msprop:Generator_ColumnVarNameInTable="columnseq_No" msprop:Generator_ColumnPropNameInRow="seq_No" msprop:Generator_ColumnPropNameInTable="seq_NoColumn" msprop:Generator_UserColumnName="seq_No" type="xs:string" minOccurs="0" />
+              <xs:element name="voucher_Type" msprop:Generator_ColumnVarNameInTable="columnvoucher_Type" msprop:Generator_ColumnPropNameInRow="voucher_Type" msprop:Generator_ColumnPropNameInTable="voucher_TypeColumn" msprop:Generator_UserColumnName="voucher_Type" type="xs:string" minOccurs="0" />
+              <xs:element name="voucher_No" msprop:Generator_ColumnVarNameInTable="columnvoucher_No" msprop:Generator_ColumnPropNameInRow="voucher_No" msprop:Generator_ColumnPropNameInTable="voucher_NoColumn" msprop:Generator_UserColumnName="voucher_No" type="xs:string" minOccurs="0" />
+              <xs:element name="payee" msprop:Generator_ColumnVarNameInTable="columnpayee" msprop:Generator_ColumnPropNameInRow="payee" msprop:Generator_ColumnPropNameInTable="payeeColumn" msprop:Generator_UserColumnName="payee" type="xs:string" minOccurs="0" />
+              <xs:element name="amount" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:string" minOccurs="0" />
+              <xs:element name="particulars" msprop:Generator_ColumnVarNameInTable="columnparticulars" msprop:Generator_ColumnPropNameInRow="particulars" msprop:Generator_ColumnPropNameInTable="particularsColumn" msprop:Generator_UserColumnName="particulars" type="xs:string" minOccurs="0" />
+              <xs:element name="check_No" msprop:Generator_ColumnVarNameInTable="columncheck_No" msprop:Generator_ColumnPropNameInRow="check_No" msprop:Generator_ColumnPropNameInTable="check_NoColumn" msprop:Generator_UserColumnName="check_No" type="xs:string" minOccurs="0" />
+              <xs:element name="check_Date" msprop:Generator_ColumnVarNameInTable="columncheck_Date" msprop:Generator_ColumnPropNameInRow="check_Date" msprop:Generator_ColumnPropNameInTable="check_DateColumn" msprop:Generator_UserColumnName="check_Date" type="xs:string" minOccurs="0" />
+              <xs:element name="transaction_Date" msprop:Generator_ColumnVarNameInTable="columntransaction_Date" msprop:Generator_ColumnPropNameInRow="transaction_Date" msprop:Generator_ColumnPropNameInTable="transaction_DateColumn" msprop:Generator_UserColumnName="transaction_Date" type="xs:string" minOccurs="0" />
+              <xs:element name="bank" msprop:Generator_ColumnVarNameInTable="columnbank" msprop:Generator_ColumnPropNameInRow="bank" msprop:Generator_ColumnPropNameInTable="bankColumn" msprop:Generator_UserColumnName="bank" type="xs:string" minOccurs="0" />
+              <xs:element name="user" msprop:Generator_ColumnVarNameInTable="columnuser" msprop:Generator_ColumnPropNameInRow="user" msprop:Generator_ColumnPropNameInTable="userColumn" msprop:Generator_UserColumnName="user" type="xs:string" minOccurs="0" />
+              <xs:element name="posting_Status" msprop:Generator_ColumnVarNameInTable="columnposting_Status" msprop:Generator_ColumnPropNameInRow="posting_Status" msprop:Generator_ColumnPropNameInTable="posting_StatusColumn" msprop:Generator_UserColumnName="posting_Status" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

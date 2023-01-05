@@ -1,0 +1,1701 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\squirrel.windows.2.0.1\build\squirrel.windows.props" Condition="Exists('packages\squirrel.windows.2.0.1\build\squirrel.windows.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D8BE419-C04C-4146-8221-F8D5A82BD236}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EXIN</RootNamespace>
+    <AssemblyName>EXIN</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>EXIN.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="BCrypt.Net-Next, Version=4.0.3.0, Culture=neutral, PublicKeyToken=1e11be04b6288443, processorArchitecture=MSIL">
+      <HintPath>packages\BCrypt.Net-Next.4.0.3\lib\net48\BCrypt.Net-Next.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DeltaCompressionDotNet, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1d14d6e5194e7f4a, processorArchitecture=MSIL">
+      <HintPath>packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="DeltaCompressionDotNet.MsDelta, Version=1.1.0.0, Culture=neutral, PublicKeyToken=46b2138a390abf55, processorArchitecture=MSIL">
+      <HintPath>packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.MsDelta.dll</HintPath>
+    </Reference>
+    <Reference Include="DeltaCompressionDotNet.PatchApi, Version=1.1.0.0, Culture=neutral, PublicKeyToken=3e8888ee913ed789, processorArchitecture=MSIL">
+      <HintPath>packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.PatchApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.Charts.WinForms, Version=1.0.4.0, Culture=neutral, PublicKeyToken=70866663edbc6595, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.Charts.WinForms.1.0.4\lib\net40\Guna.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Utilities.v4.0" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Mono.Cecil, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL">
+      <HintPath>packages\Mono.Cecil.0.11.4\lib\net40\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Mdb, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL">
+      <HintPath>packages\Mono.Cecil.0.11.4\lib\net40\Mono.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Pdb, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL">
+      <HintPath>packages\Mono.Cecil.0.11.4\lib\net40\Mono.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Rocks, Version=0.11.4.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL">
+      <HintPath>packages\Mono.Cecil.0.11.4\lib\net40\Mono.Cecil.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="NuGet.Squirrel, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\squirrel.windows.2.0.1\lib\Net45\NuGet.Squirrel.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpCompress, Version=0.17.1.0, Culture=neutral, PublicKeyToken=afb0a02973931d96, processorArchitecture=MSIL">
+      <HintPath>packages\SharpCompress.0.17.1\lib\net45\SharpCompress.dll</HintPath>
+    </Reference>
+    <Reference Include="Squirrel, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\squirrel.windows.2.0.1\lib\Net45\Squirrel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\netstandard1.1\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.Composition.Registration" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\netstandard1.1\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\Accounting_Report\Accounting.cs" />
+    <Compile Include="Controller\Accounting_Report\ARAging.cs" />
+    <Compile Include="Controller\Accounting_Report\ctrlDashboard.cs" />
+    <Compile Include="Controller\Accounting_Report\ctrlFillComboBoxes.cs" />
+    <Compile Include="Controller\Accounting_Report\LastYearData.cs" />
+    <Compile Include="Controller\Accounting_Report\Budget.cs" />
+    <Compile Include="Controller\Settings\classControl_Docking.cs" />
+    <Compile Include="Controller\Settings\classGlobalVariables.cs" />
+    <Compile Include="Controller\Settings\classMsgBox.cs" />
+    <Compile Include="Controller\Settings\classValidateCredentials.cs" />
+    <Compile Include="Controller\Settings\FileHandler.cs" />
+    <Compile Include="Model\Accounting_Reports\mdlComboBoxes.cs" />
+    <Compile Include="Model\Accounting_Reports\mdlDashboard.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
+    <Compile Include="View\Fixed_Assets_Management_System\Forms\frmAdditem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Fixed_Assets_Management_System\Forms\frmAdditem.Designer.cs">
+      <DependentUpon>frmAdditem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Fixed_Assets_Management_System\frmFixedAssets_ParentContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Fixed_Assets_Management_System\frmFixedAssets_ParentContainer.Designer.cs">
+      <DependentUpon>frmFixedAssets_ParentContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Fixed_Assets_Management_System\User_Controls\ucMasterlist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Fixed_Assets_Management_System\User_Controls\ucMasterlist.Designer.cs">
+      <DependentUpon>ucMasterlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmBudgetSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmBudgetSetup.Designer.cs">
+      <DependentUpon>frmBudgetSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Settings\frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\frmSignUp.Designer.cs">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmChartofAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmChartofAccounts.Designer.cs">
+      <DependentUpon>frmChartofAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmViewer.Designer.cs">
+      <DependentUpon>frmViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmAccountingEntries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmAccountingEntries.Designer.cs">
+      <DependentUpon>frmAccountingEntries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Settings\frmAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\frmAlert.Designer.cs">
+      <DependentUpon>frmAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmPayees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\frmPayees.Designer.cs">
+      <DependentUpon>frmPayees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Accounting_Report\FS.cs" />
+    <Compile Include="Controller\Settings\InputHandler.cs" />
+    <Compile Include="Controller\Settings\MySQLDataTable.cs" />
+    <Compile Include="View\Forms\Accounting_Reports\Controller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Accounting_Reports\Controller.Designer.cs">
+      <DependentUpon>Controller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Settings\LoginMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\LoginMenu.Designer.cs">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Settings\NumbertoWords.cs" />
+    <Compile Include="Controller\Accounting_Report\opnDaysData.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Report_Generator\CrystalReport\crptCheck.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCheck.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report_Generator\CrystalReport\crptCheckVoucher.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crptCheckVoucher.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report_Generator\DataSet\dsCheckVoucher.cs">
+      <DependentUpon>dsCheckVoucher.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report_Generator\DataSet\dsCheckVoucher.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCheckVoucher.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\Forms\frmInventory_InventoryIn_AddNewTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\Forms\frmInventory_InventoryIn_AddNewTransaction.Designer.cs">
+      <DependentUpon>frmInventory_InventoryIn_AddNewTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\Forms\frmInventory_Products_NewItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\Forms\frmInventory_Products_NewItem.Designer.cs">
+      <DependentUpon>frmInventory_Products_NewItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\frmInventory_ParentContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\frmInventory_ParentContainer.Designer.cs">
+      <DependentUpon>frmInventory_ParentContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_Home.Designer.cs">
+      <DependentUpon>ucInventory_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_InventoryIn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_InventoryIn.Designer.cs">
+      <DependentUpon>ucInventory_InventoryIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_InventoryOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_InventoryOut.Designer.cs">
+      <DependentUpon>ucInventory_InventoryOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_Products.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_Products.Designer.cs">
+      <DependentUpon>ucInventory_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_PurchaseOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Inventory_System\User_Controls\ucInventory_PurchaseOrder.Designer.cs">
+      <DependentUpon>ucInventory_PurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Confirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Confirmation.Designer.cs">
+      <DependentUpon>frmMsgBox_Confirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Confirmation_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Confirmation_Delete.Designer.cs">
+      <DependentUpon>frmMsgBox_Confirmation_Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Error.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Error.Designer.cs">
+      <DependentUpon>frmMsgBox_Error.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Information.Designer.cs">
+      <DependentUpon>frmMsgBox_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_LogOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_LogOut.Designer.cs">
+      <DependentUpon>frmMsgBox_LogOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Successful.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmMsgBox_Successful.Designer.cs">
+      <DependentUpon>frmMsgBox_Successful.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Message_Box\frmTransparentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Message_Box\frmTransparentForm.Designer.cs">
+      <DependentUpon>frmTransparentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Payroll_System\Forms\frmPayroll_Employee_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Payroll_System\Forms\frmPayroll_Employee_Details.Designer.cs">
+      <DependentUpon>frmPayroll_Employee_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Payroll_System\frmPayroll_ParentContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Payroll_System\frmPayroll_ParentContainer.Designer.cs">
+      <DependentUpon>frmPayroll_ParentContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Payroll_System\User_Controls\ucPayroll_EmployeeList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Payroll_System\User_Controls\ucPayroll_EmployeeList.Designer.cs">
+      <DependentUpon>ucPayroll_EmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\Forms\frmSalesCollection_List_DSRAccounts_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\Forms\frmSalesCollection_List_DSRAccounts_Details.Designer.cs">
+      <DependentUpon>frmSalesCollection_List_DSRAccounts_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\Forms\frmSalesCollection_List_GCAccounts_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\Forms\frmSalesCollection_List_GCAccounts_Details.Designer.cs">
+      <DependentUpon>frmSalesCollection_List_GCAccounts_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\frmSalesCollection_ParentContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\frmSalesCollection_ParentContainer.Designer.cs">
+      <DependentUpon>frmSalesCollection_ParentContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Home.Designer.cs">
+      <DependentUpon>ucSalesCollection_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_DSRAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_DSRAccounts.Designer.cs">
+      <DependentUpon>ucSalesCollection_List_DSRAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_GCAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_GCAccounts.Designer.cs">
+      <DependentUpon>ucSalesCollection_List_GCAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Reports_SalesCertificate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Reports_SalesCertificate.Designer.cs">
+      <DependentUpon>ucSalesCollection_Reports_SalesCertificate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Settings_Defaults.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Settings_Defaults.Designer.cs">
+      <DependentUpon>ucSalesCollection_Settings_Defaults.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Collection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Collection.Designer.cs">
+      <DependentUpon>ucSalesCollection_Transactions_Collection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_DSRRecords.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_DSRRecords.Designer.cs">
+      <DependentUpon>ucSalesCollection_Transactions_DSRRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_GCRecords.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_GCRecords.Designer.cs">
+      <DependentUpon>ucSalesCollection_Transactions_GCRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Logs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Logs.Designer.cs">
+      <DependentUpon>ucSalesCollection_Transactions_Logs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings_UserCredentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings_UserCredentials.Designer.cs">
+      <DependentUpon>frmSettings_UserCredentials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings_UserCredentials_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Settings\Forms\frmSettings_UserCredentials_New.Designer.cs">
+      <DependentUpon>frmSettings_UserCredentials_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_AccountClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_AccountClass.Designer.cs">
+      <DependentUpon>ucSettings_AccountClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_BusinessCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_BusinessCategories.Designer.cs">
+      <DependentUpon>ucSettings_BusinessCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_BusinessUnits.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_BusinessUnits.Designer.cs">
+      <DependentUpon>ucSettings_BusinessUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_ChartOfAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_ChartOfAccounts.Designer.cs">
+      <DependentUpon>ucSettings_ChartOfAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_Corporations.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_Corporations.Designer.cs">
+      <DependentUpon>ucSettings_Corporations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_Projects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_Projects.Designer.cs">
+      <DependentUpon>ucSettings_Projects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_SupplierList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_SupplierList.Designer.cs">
+      <DependentUpon>ucSettings_SupplierList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_SystemFeatures.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_SystemFeatures.Designer.cs">
+      <DependentUpon>ucSettings_SystemFeatures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserAccounts.Designer.cs">
+      <DependentUpon>ucSettings_UserAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserCredentials_BusinessUnits.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserCredentials_BusinessUnits.Designer.cs">
+      <DependentUpon>ucSettings_UserCredentials_BusinessUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserCredentials_SystemFeatures.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Settings\User_Controls\ucSettings_UserCredentials_SystemFeatures.Designer.cs">
+      <DependentUpon>ucSettings_UserCredentials_SystemFeatures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBudgetInputs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBudgetInputs.Designer.cs">
+      <DependentUpon>UCBudgetInputs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCARAging.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCARAging.Designer.cs">
+      <DependentUpon>UCARAging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCDashboardGraph.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCDashboardGraph.Designer.cs">
+      <DependentUpon>UCDashboardGraph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCLastYear_Upload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCLastYear_Upload.Designer.cs">
+      <DependentUpon>UCLastYear_Upload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBudget_Projects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBudget_Projects.Designer.cs">
+      <DependentUpon>UCBudget_Projects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCOperatingDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCOperatingDays.Designer.cs">
+      <DependentUpon>UCOperatingDays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCSL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCSL.Designer.cs">
+      <DependentUpon>UCSL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCFS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCFS.Designer.cs">
+      <DependentUpon>UCFS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCSOA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCSOA.Designer.cs">
+      <DependentUpon>UCSOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCExcelMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCExcelMenu.Designer.cs">
+      <DependentUpon>UCExcelMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCFiguresBS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCFiguresBS.Designer.cs">
+      <DependentUpon>UCFiguresBS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCAccountingEntries.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCAccountingEntries.Designer.cs">
+      <DependentUpon>UCAccountingEntries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCCheckVoucher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCCheckVoucher.Designer.cs">
+      <DependentUpon>UCCheckVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCBS.Designer.cs">
+      <DependentUpon>UCBS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCHomePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCHomePage.Designer.cs">
+      <DependentUpon>UCHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCAccounting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCAccounting.Designer.cs">
+      <DependentUpon>UCAccounting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCUpload.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCUpload.Designer.cs">
+      <DependentUpon>UCUpload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCTemplates.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Accounting_Reports\UCTemplates.Designer.cs">
+      <DependentUpon>UCTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Settings\UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\UserLogin.Designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Settings\SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Forms\Settings\WaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\WaitForm.Designer.cs">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller\Settings\WaitFormFunc.cs" />
+    <Compile Include="View\Forms\Settings\WaitFormSmall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Settings\WaitFormSmall.Designer.cs">
+      <DependentUpon>WaitFormSmall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucOfferings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucOfferings.Designer.cs">
+      <DependentUpon>ucOfferings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucToolBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucToolBox.Designer.cs">
+      <DependentUpon>ucToolBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucUsers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\UserControls\Tools\ucUsers.Designer.cs">
+      <DependentUpon>ucUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_AccountClass_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_AccountClass_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_AccountClass_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_COA_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_COA_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_COA_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_CostCenter_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_CostCenter_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_CostCenter_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Payee_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Payee_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_Payee_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Projects_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Projects_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_Projects_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Signatories_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_List_Signatories_Details.Designer.cs">
+      <DependentUpon>frmVoucher_List_Signatories_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_Settings_CheckPrint_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\Forms\frmVoucher_Settings_CheckPrint_Details.Designer.cs">
+      <DependentUpon>frmVoucher_Settings_CheckPrint_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\frmVoucher_MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\frmVoucher_MainMenu.Designer.cs">
+      <DependentUpon>frmVoucher_MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\frmVoucher_ParentContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\frmVoucher_ParentContainer.Designer.cs">
+      <DependentUpon>frmVoucher_ParentContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Home.Designer.cs">
+      <DependentUpon>ucVoucher_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_AccountClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_AccountClass.Designer.cs">
+      <DependentUpon>ucVoucher_List_AccountClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_COA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_COA.Designer.cs">
+      <DependentUpon>ucVoucher_List_COA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_CostCenter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_CostCenter.Designer.cs">
+      <DependentUpon>ucVoucher_List_CostCenter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Payee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Payee.Designer.cs">
+      <DependentUpon>ucVoucher_List_Payee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Projects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Projects.Designer.cs">
+      <DependentUpon>ucVoucher_List_Projects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Signatories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_List_Signatories.Designer.cs">
+      <DependentUpon>ucVoucher_List_Signatories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_APAging.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_APAging.Designer.cs">
+      <DependentUpon>ucVoucher_Reports_APAging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_ARAging.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_ARAging.Designer.cs">
+      <DependentUpon>ucVoucher_Reports_ARAging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_VatInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_VatInput.Designer.cs">
+      <DependentUpon>ucVoucher_Reports_VatInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_Wtax.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Reports_Wtax.Designer.cs">
+      <DependentUpon>ucVoucher_Reports_Wtax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_Approvers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_Approvers.Designer.cs">
+      <DependentUpon>ucVoucher_Settings_Approvers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_CheckPrint.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_CheckPrint.Designer.cs">
+      <DependentUpon>ucVoucher_Settings_CheckPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingDate.Designer.cs">
+      <DependentUpon>ucVoucher_Settings_ClosingDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingEntries.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingEntries.Designer.cs">
+      <DependentUpon>ucVoucher_Settings_ClosingEntries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_DefaultEntries.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Settings_DefaultEntries.Designer.cs">
+      <DependentUpon>ucVoucher_Settings_DefaultEntries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_CreateEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_CreateEdit.Designer.cs">
+      <DependentUpon>ucVoucher_Transactions_CreateEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_Logs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_Logs.Designer.cs">
+      <DependentUpon>ucVoucher_Transactions_Logs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_PCF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_PCF.Designer.cs">
+      <DependentUpon>ucVoucher_Transactions_PCF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_UploadRecords.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_UploadRecords.Designer.cs">
+      <DependentUpon>ucVoucher_Transactions_UploadRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_ViewRecords.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_ViewRecords.Designer.cs">
+      <DependentUpon>ucVoucher_Transactions_ViewRecords.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="obj\Debug\EXIN.frmAccountingEntries.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmAlert.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmBudgetSetup.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmChartofAccounts.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmController.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmEXIN.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmLogInMenu.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmPayees.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmSignUp.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmUserLogin.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.frmViewer.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCAccounting.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCAccountingEntries.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCARAging.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCBS.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCBudgetInputs.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCBudget_Projects.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCCheckVoucher.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCExcelMenu.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCFiguresBS.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCFS.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCHomePage.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCLastYear_Upload.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCOperatingDays.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCSL.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCSOA.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCTemplates.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.UCUpload.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.View.UserControls.Accounting_Reports.UCDashboardGraph.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.WaitForm.resources" />
+    <EmbeddedResource Include="obj\Debug\EXIN.WaitFormSmall.resources" />
+    <EmbeddedResource Include="obj\Debug\RICHApp.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Debug\SplashScreen.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmAccountingEntries.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmAlert.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmChartofAccounts.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmController.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmLogInMenu.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmPayees.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmRICHApp.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmSignUp.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmUserLogin.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.frmViewer.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.UCAccounting.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.UCAccountingEntries.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.UCCheckVoucher.resources" />
+    <EmbeddedResource Include="obj\Release\RICHApp.UCDashboard.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmAlert.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmCheckVoucher.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmController.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmLogInMenu.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmSplashScreen.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.frmUserLogin.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.UCAccounting.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.UCCheckVoucher.resources" />
+    <EmbeddedResource Include="obj\Release\SplashScreen.UCDashboard.resources" />
+    <EmbeddedResource Include="View\Fixed_Assets_Management_System\Forms\frmAdditem.resx">
+      <DependentUpon>frmAdditem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Fixed_Assets_Management_System\frmFixedAssets_ParentContainer.resx">
+      <DependentUpon>frmFixedAssets_ParentContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Fixed_Assets_Management_System\User_Controls\ucMasterlist.resx">
+      <DependentUpon>ucMasterlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\Controller.resx">
+      <DependentUpon>Controller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\frmBudgetSetup.resx">
+      <DependentUpon>frmBudgetSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\frmSignUp.resx">
+      <DependentUpon>frmSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\frmChartofAccounts.resx">
+      <DependentUpon>frmChartofAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\frmViewer.resx">
+      <DependentUpon>frmViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\frmAccountingEntries.resx">
+      <DependentUpon>frmAccountingEntries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\frmAlert.resx">
+      <DependentUpon>frmAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Accounting_Reports\frmPayees.resx">
+      <DependentUpon>frmPayees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\LoginMenu.resx">
+      <DependentUpon>LoginMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Generator\CrystalReport\crptCheck.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCheck.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Generator\CrystalReport\crptCheckVoucher.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crptCheckVoucher.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\Forms\frmInventory_InventoryIn_AddNewTransaction.resx">
+      <DependentUpon>frmInventory_InventoryIn_AddNewTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\Forms\frmInventory_Products_NewItem.resx">
+      <DependentUpon>frmInventory_Products_NewItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\frmInventory_ParentContainer.resx">
+      <DependentUpon>frmInventory_ParentContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\User_Controls\ucInventory_Home.resx">
+      <DependentUpon>ucInventory_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\User_Controls\ucInventory_InventoryIn.resx">
+      <DependentUpon>ucInventory_InventoryIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\User_Controls\ucInventory_InventoryOut.resx">
+      <DependentUpon>ucInventory_InventoryOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\User_Controls\ucInventory_Products.resx">
+      <DependentUpon>ucInventory_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Inventory_System\User_Controls\ucInventory_PurchaseOrder.resx">
+      <DependentUpon>ucInventory_PurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_Confirmation.resx">
+      <DependentUpon>frmMsgBox_Confirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_Confirmation_Delete.resx">
+      <DependentUpon>frmMsgBox_Confirmation_Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_Error.resx">
+      <DependentUpon>frmMsgBox_Error.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_Information.resx">
+      <DependentUpon>frmMsgBox_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_LogOut.resx">
+      <DependentUpon>frmMsgBox_LogOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmMsgBox_Successful.resx">
+      <DependentUpon>frmMsgBox_Successful.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Message_Box\frmTransparentForm.resx">
+      <DependentUpon>frmTransparentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Payroll_System\Forms\frmPayroll_Employee_Details.resx">
+      <DependentUpon>frmPayroll_Employee_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Payroll_System\frmPayroll_ParentContainer.resx">
+      <DependentUpon>frmPayroll_ParentContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Payroll_System\User_Controls\ucPayroll_EmployeeList.resx">
+      <DependentUpon>ucPayroll_EmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\Forms\frmSalesCollection_List_DSRAccounts_Details.resx">
+      <DependentUpon>frmSalesCollection_List_DSRAccounts_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\Forms\frmSalesCollection_List_GCAccounts_Details.resx">
+      <DependentUpon>frmSalesCollection_List_GCAccounts_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\frmSalesCollection_ParentContainer.resx">
+      <DependentUpon>frmSalesCollection_ParentContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Home.resx">
+      <DependentUpon>ucSalesCollection_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_DSRAccounts.resx">
+      <DependentUpon>ucSalesCollection_List_DSRAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_List_GCAccounts.resx">
+      <DependentUpon>ucSalesCollection_List_GCAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Reports_SalesCertificate.resx">
+      <DependentUpon>ucSalesCollection_Reports_SalesCertificate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Settings_Defaults.resx">
+      <DependentUpon>ucSalesCollection_Settings_Defaults.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Collection.resx">
+      <DependentUpon>ucSalesCollection_Transactions_Collection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_DSRRecords.resx">
+      <DependentUpon>ucSalesCollection_Transactions_DSRRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_GCRecords.resx">
+      <DependentUpon>ucSalesCollection_Transactions_GCRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\SalesCollection_System\User_Controls\ucSalesCollection_Transactions_Logs.resx">
+      <DependentUpon>ucSalesCollection_Transactions_Logs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\Forms\frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\Forms\frmSettings_UserCredentials.resx">
+      <DependentUpon>frmSettings_UserCredentials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\Forms\frmSettings_UserCredentials_New.resx">
+      <DependentUpon>frmSettings_UserCredentials_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_AccountClass.resx">
+      <DependentUpon>ucSettings_AccountClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_BusinessCategories.resx">
+      <DependentUpon>ucSettings_BusinessCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_BusinessUnits.resx">
+      <DependentUpon>ucSettings_BusinessUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_ChartOfAccounts.resx">
+      <DependentUpon>ucSettings_ChartOfAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_Corporations.resx">
+      <DependentUpon>ucSettings_Corporations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_Projects.resx">
+      <DependentUpon>ucSettings_Projects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_SupplierList.resx">
+      <DependentUpon>ucSettings_SupplierList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_SystemFeatures.resx">
+      <DependentUpon>ucSettings_SystemFeatures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_UserAccounts.resx">
+      <DependentUpon>ucSettings_UserAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_UserCredentials_BusinessUnits.resx">
+      <DependentUpon>ucSettings_UserCredentials_BusinessUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings\User_Controls\ucSettings_UserCredentials_SystemFeatures.resx">
+      <DependentUpon>ucSettings_UserCredentials_SystemFeatures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCBudgetInputs.resx">
+      <DependentUpon>UCBudgetInputs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCARAging.resx">
+      <DependentUpon>UCARAging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCDashboardGraph.resx">
+      <DependentUpon>UCDashboardGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCLastYear_Upload.resx">
+      <DependentUpon>UCLastYear_Upload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCBudget_Projects.resx">
+      <DependentUpon>UCBudget_Projects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCOperatingDays.resx">
+      <DependentUpon>UCOperatingDays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCSL.resx">
+      <DependentUpon>UCSL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCFS.resx">
+      <DependentUpon>UCFS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCSOA.resx">
+      <DependentUpon>UCSOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCExcelMenu.resx">
+      <DependentUpon>UCExcelMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCFiguresBS.resx">
+      <DependentUpon>UCFiguresBS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCAccountingEntries.resx">
+      <DependentUpon>UCAccountingEntries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCCheckVoucher.resx">
+      <DependentUpon>UCCheckVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCBS.resx">
+      <DependentUpon>UCBS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCHomePage.resx">
+      <DependentUpon>UCHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCAccounting.resx">
+      <DependentUpon>UCAccounting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCUpload.resx">
+      <DependentUpon>UCUpload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Accounting_Reports\UCTemplates.resx">
+      <DependentUpon>UCTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\WaitForm.resx">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Settings\WaitFormSmall.resx">
+      <DependentUpon>WaitFormSmall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Tools\ucOfferings.resx">
+      <DependentUpon>ucOfferings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Tools\ucToolBox.resx">
+      <DependentUpon>ucToolBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\UserControls\Tools\ucUsers.resx">
+      <DependentUpon>ucUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_AccountClass_Details.resx">
+      <DependentUpon>frmVoucher_List_AccountClass_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_COA_Details.resx">
+      <DependentUpon>frmVoucher_List_COA_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_CostCenter_Details.resx">
+      <DependentUpon>frmVoucher_List_CostCenter_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_Payee_Details.resx">
+      <DependentUpon>frmVoucher_List_Payee_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_Projects_Details.resx">
+      <DependentUpon>frmVoucher_List_Projects_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_List_Signatories_Details.resx">
+      <DependentUpon>frmVoucher_List_Signatories_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\Forms\frmVoucher_Settings_CheckPrint_Details.resx">
+      <DependentUpon>frmVoucher_Settings_CheckPrint_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\frmVoucher_MainMenu.resx">
+      <DependentUpon>frmVoucher_MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\frmVoucher_ParentContainer.resx">
+      <DependentUpon>frmVoucher_ParentContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Home.resx">
+      <DependentUpon>ucVoucher_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_AccountClass.resx">
+      <DependentUpon>ucVoucher_List_AccountClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_COA.resx">
+      <DependentUpon>ucVoucher_List_COA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_CostCenter.resx">
+      <DependentUpon>ucVoucher_List_CostCenter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_Payee.resx">
+      <DependentUpon>ucVoucher_List_Payee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_Projects.resx">
+      <DependentUpon>ucVoucher_List_Projects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_List_Signatories.resx">
+      <DependentUpon>ucVoucher_List_Signatories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Reports_APAging.resx">
+      <DependentUpon>ucVoucher_Reports_APAging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Reports_ARAging.resx">
+      <DependentUpon>ucVoucher_Reports_ARAging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Reports_VatInput.resx">
+      <DependentUpon>ucVoucher_Reports_VatInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Reports_Wtax.resx">
+      <DependentUpon>ucVoucher_Reports_Wtax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Settings_Approvers.resx">
+      <DependentUpon>ucVoucher_Settings_Approvers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Settings_CheckPrint.resx">
+      <DependentUpon>ucVoucher_Settings_CheckPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingDate.resx">
+      <DependentUpon>ucVoucher_Settings_ClosingDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Settings_ClosingEntries.resx">
+      <DependentUpon>ucVoucher_Settings_ClosingEntries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Settings_DefaultEntries.resx">
+      <DependentUpon>ucVoucher_Settings_DefaultEntries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_CreateEdit.resx">
+      <DependentUpon>ucVoucher_Transactions_CreateEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_Logs.resx">
+      <DependentUpon>ucVoucher_Transactions_Logs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_PCF.resx">
+      <DependentUpon>ucVoucher_Transactions_PCF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_UploadRecords.resx">
+      <DependentUpon>ucVoucher_Transactions_UploadRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Voucher_System\User_Controls\ucVoucher_Transactions_ViewRecords.resx">
+      <DependentUpon>ucVoucher_Transactions_ViewRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include=".vs\EXIN\FileContentIndex\244d4c2b-e33b-4218-b4b5-b12162e873be.vsidx" />
+    <None Include=".vs\EXIN\FileContentIndex\read.lock" />
+    <None Include="bin\Debug\Budget Upload Template.xlsm" />
+    <None Include="bin\Debug\Commi Upload Template.xlsm" />
+    <None Include="bin\Debug\EXIN-Excel Ops.xlsb" />
+    <None Include="bin\Debug\EXIN-Excel.xlsb" />
+    <None Include="bin\Debug\EXIN.exe.config" />
+    <None Include="bin\Debug\Last Year Upload Template.xlsm" />
+    <None Include="bin\Debug\PNL Consolidated.xlsb" />
+    <None Include="bin\Debug\PnL-Dashboard.xlsb" />
+    <None Include="bin\Debug\PnL-Dashboard.xlsm" />
+    <None Include="obj\Debug\AssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\EXIN.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\EXIN.csproj.CopyComplete" />
+    <None Include="obj\Debug\EXIN.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\EXIN.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\EXIN.csproj.ResolveComReference.cache" />
+    <None Include="obj\Debug\RICHApp.csproj.CopyComplete" />
+    <None Include="obj\Debug\RICHApp.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\RICHApp.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\RICHApp.csproj.ResolveComReference.cache" />
+    <None Include="obj\Debug\RICHApp.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\SplashScreen.csproj.CopyComplete" />
+    <None Include="obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\SplashScreen.csproj.GenerateResource.cache" />
+    <None Include="obj\Debug\SplashScreen.csproj.ResolveComReference.cache" />
+    <None Include="obj\Debug\SplashScreen.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\_IsIncrementalBuild" />
+    <None Include="obj\Release\build.force" />
+    <None Include="obj\Release\SplashScreen.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Release\SplashScreen.csproj.GenerateResource.cache" />
+    <None Include="obj\Release\SplashScreen.csproj.ResolveComReference.cache" />
+    <None Include="obj\Release\SplashScreen.csprojAssemblyReference.cache" />
+    <None Include="packages.config" />
+    <None Include="packages\BCrypt.Net-Next.4.0.3\.signature.p7s" />
+    <None Include="packages\BCrypt.Net-Next.4.0.3\BCrypt.Net-Next.4.0.3.nupkg" />
+    <None Include="packages\BCrypt.Net-Next.4.0.3\readme.md" />
+    <None Include="packages\DeltaCompressionDotNet.1.1.0\.signature.p7s" />
+    <None Include="packages\DeltaCompressionDotNet.1.1.0\DeltaCompressionDotNet.1.1.0.nupkg" />
+    <None Include="packages\Guna.Charts.WinForms.1.0.4\.signature.p7s" />
+    <None Include="packages\Guna.Charts.WinForms.1.0.4\Guna.Charts.WinForms.1.0.4.nupkg" />
+    <None Include="packages\Guna.UI2.WinForms.2.0.1.9\.signature.p7s" />
+    <None Include="packages\Guna.UI2.WinForms.2.0.1.9\Guna.UI2.WinForms.2.0.1.9.nupkg" />
+    <None Include="packages\Mono.Cecil.0.11.2\.signature.p7s" />
+    <None Include="packages\Mono.Cecil.0.11.2\Mono.Cecil.0.11.2.nupkg" />
+    <None Include="packages\NuGet.CommandLine.5.7.1\.signature.p7s" />
+    <None Include="packages\NuGet.CommandLine.5.7.1\NuGet.CommandLine.5.7.1.nupkg" />
+    <None Include="packages\SharpCompress.0.17.1\.signature.p7s" />
+    <None Include="packages\SharpCompress.0.17.1\SharpCompress.0.17.1.nupkg" />
+    <None Include="packages\squirrel.windows.2.0.1\.signature.p7s" />
+    <None Include="packages\squirrel.windows.2.0.1\build\squirrel.windows.props" />
+    <None Include="packages\squirrel.windows.2.0.1\squirrel.windows.2.0.1.nupkg" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\candle.exe.config" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\darice.cub" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\light.exe.config" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\Squirrel-Releasify.log" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\Squirrel.com" />
+    <None Include="packages\squirrel.windows.2.0.1\tools\template.wxs" />
+    <None Include="packages\System.Buffers.4.5.1\.signature.p7s" />
+    <None Include="packages\System.Buffers.4.5.1\lib\netcoreapp2.0\_._" />
+    <None Include="packages\System.Buffers.4.5.1\lib\uap10.0.16299\_._" />
+    <None Include="packages\System.Buffers.4.5.1\ref\netcoreapp2.0\_._" />
+    <None Include="packages\System.Buffers.4.5.1\ref\uap10.0.16299\_._" />
+    <None Include="packages\System.Buffers.4.5.1\System.Buffers.4.5.1.nupkg" />
+    <None Include="packages\System.Memory.4.5.4\.signature.p7s" />
+    <None Include="packages\System.Memory.4.5.4\lib\netcoreapp2.1\_._" />
+    <None Include="packages\System.Memory.4.5.4\ref\netcoreapp2.1\_._" />
+    <None Include="packages\System.Memory.4.5.4\System.Memory.4.5.4.nupkg" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\.signature.p7s" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\MonoAndroid10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\MonoTouch10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\netcoreapp2.0\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\uap10.0.16299\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\xamarinios10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\xamarinmac20\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\xamarintvos10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\lib\xamarinwatchos10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\MonoAndroid10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\MonoTouch10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\netcoreapp2.0\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\uap10.0.16299\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\xamarinios10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\xamarinmac20\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\xamarintvos10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\ref\xamarinwatchos10\_._" />
+    <None Include="packages\System.Numerics.Vectors.4.5.0\System.Numerics.Vectors.4.5.0.nupkg" />
+    <None Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\.signature.p7s" />
+    <None Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\System.Runtime.CompilerServices.Unsafe.4.5.3.nupkg" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report_Generator\DataSet\dsCheckVoucher.xsc">
+      <DependentUpon>dsCheckVoucher.xsd</DependentUpon>
+    </None>
+    <None Include="Report_Generator\DataSet\dsCheckVoucher.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCheckVoucher.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report_Generator\DataSet\dsCheckVoucher.xss">
+      <DependentUpon>dsCheckVoucher.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Checkmark_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiply_18px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AxShockwaveFlashObjects.dll" />
+    <Content Include="bin\Debug\BCrypt.Net-Next.dll" />
+    <Content Include="bin\Debug\BCrypt.Net-Next.xml" />
+    <Content Include="bin\Debug\BouncyCastle.Crypto.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.ReportSource.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Shared.dll" />
+    <Content Include="bin\Debug\CrystalDecisions.Windows.Forms.dll" />
+    <Content Include="bin\Debug\DeltaCompressionDotNet.dll" />
+    <Content Include="bin\Debug\DeltaCompressionDotNet.MsDelta.dll" />
+    <Content Include="bin\Debug\DeltaCompressionDotNet.PatchApi.dll" />
+    <Content Include="bin\Debug\EXIN.exe" />
+    <Content Include="bin\Debug\EXIN.pdb" />
+    <Content Include="bin\Debug\Google.Protobuf.dll" />
+    <Content Include="bin\Debug\Guna.Charts.WinForms.dll" />
+    <Content Include="bin\Debug\Guna.UI.dll" />
+    <Content Include="bin\Debug\Guna.UI2.dll" />
+    <Content Include="bin\Debug\Mono.Cecil.dll" />
+    <Content Include="bin\Debug\Mono.Cecil.Mdb.dll" />
+    <Content Include="bin\Debug\Mono.Cecil.Mdb.pdb" />
+    <Content Include="bin\Debug\Mono.Cecil.pdb" />
+    <Content Include="bin\Debug\Mono.Cecil.Pdb.dll" />
+    <Content Include="bin\Debug\Mono.Cecil.Pdb.pdb" />
+    <Content Include="bin\Debug\Mono.Cecil.Rocks.dll" />
+    <Content Include="bin\Debug\Mono.Cecil.Rocks.pdb" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\MySql.Data.xml" />
+    <Content Include="bin\Debug\NuGet.Squirrel.dll" />
+    <Content Include="bin\Debug\NuGet.Squirrel.pdb" />
+    <Content Include="bin\Debug\Renci.SshNet.dll" />
+    <Content Include="bin\Debug\Resources\Fixed_Assets_Management_System\Datagrid_Images\Capture.JPG" />
+    <Content Include="bin\Debug\Resources\Fixed_Assets_Management_System\Datagrid_Images\delete.jpg" />
+    <Content Include="bin\Debug\Resources\Fixed_Assets_Management_System\Datagrid_Images\edit.jpg" />
+    <Content Include="bin\Debug\Resources\Fixed_Assets_Management_System\Datagrid_Images\eye.jpg" />
+    <Content Include="bin\Debug\Resources\General\Logo.ico" />
+    <Content Include="bin\Debug\Resources\General\Logo.png" />
+    <Content Include="bin\Debug\Resources\Inventory_System\Datagrid_Images\Capture.JPG" />
+    <Content Include="bin\Debug\Resources\Inventory_System\Datagrid_Images\edit.jpg" />
+    <Content Include="bin\Debug\Resources\Inventory_System\Datagrid_Images\eye.png" />
+    <Content Include="bin\Debug\Resources\Inventory_System\Datagrid_Images\trash.png" />
+    <Content Include="bin\Debug\Resources\Main\Background.png" />
+    <Content Include="bin\Debug\SharpCompress.dll" />
+    <Content Include="bin\Debug\ShockwaveFlashObjects.dll" />
+    <Content Include="bin\Debug\Squirrel.dll" />
+    <Content Include="bin\Debug\Squirrel.pdb" />
+    <Content Include="bin\Debug\stdole.dll" />
+    <Content Include="bin\Debug\System.Buffers.dll" />
+    <Content Include="bin\Debug\System.Buffers.xml" />
+    <Content Include="bin\Debug\System.Memory.dll" />
+    <Content Include="bin\Debug\System.Memory.xml" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.dll" />
+    <Content Include="bin\Debug\System.Numerics.Vectors.xml" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="bin\Debug\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="bin\Debug\Ubiety.Dns.Core.dll" />
+    <Content Include="EXIN.ico" />
+    <Content Include="obj\Debug\EXIN.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\EXIN.exe" />
+    <Content Include="obj\Debug\EXIN.pdb" />
+    <Content Include="obj\Debug\RICHApp.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\RICHApp.pdb" />
+    <Content Include="obj\Debug\SplashScreen.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\SplashScreen.exe" />
+    <Content Include="obj\Debug\SplashScreen.pdb" />
+    <Content Include="obj\Debug\TempPE\crptCheckVoucher3.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Reports.CrystalReport1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Report_Generator.CrystalReport.crptCheck.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Report_Generator.CrystalReport.crptCheckVoucher.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Report_Generator.CrystalReport.crptCheckVoucher2.cs.dll" />
+    <Content Include="obj\Debug\TempPE\Report_Generator.DataSet.dsCheckVoucher.Designer.cs.dll" />
+    <Content Include="obj\Release\SplashScreen.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\TempPE\Report_Generator.CrystalReport.crptCheck.cs.dll" />
+    <Content Include="obj\Release\TempPE\Report_Generator.CrystalReport.crptCheckVoucher.cs.dll" />
+    <Content Include="obj\Release\TempPE\Report_Generator.DataSet.dsCheckVoucher.Designer.cs.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\ico.png" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net20\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net20\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net35\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net35\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net462\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net462\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net472\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net472\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net48\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net48\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net5.0\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net5.0\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net6.0\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\net6.0\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\netstandard2.0\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\netstandard2.0\BCrypt.Net-Next.xml" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\netstandard2.1\BCrypt.Net-Next.dll" />
+    <Content Include="packages\BCrypt.Net-Next.4.0.3\lib\netstandard2.1\BCrypt.Net-Next.xml" />
+    <Content Include="packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.dll" />
+    <Content Include="packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.MsDelta.dll" />
+    <Content Include="packages\DeltaCompressionDotNet.1.1.0\lib\net20\DeltaCompressionDotNet.PatchApi.dll" />
+    <Content Include="packages\Guna.Charts.WinForms.1.0.4\icon.png" />
+    <Content Include="packages\Guna.Charts.WinForms.1.0.4\lib\net40\Guna.Charts.WinForms.dll" />
+    <Content Include="packages\Guna.Charts.WinForms.1.0.4\LICENSE.txt" />
+    <Content Include="packages\Guna.UI2.WinForms.2.0.1.9\icon.png" />
+    <Content Include="packages\Guna.UI2.WinForms.2.0.1.9\lib\net40\Guna.UI2.dll" />
+    <Content Include="packages\Guna.UI2.WinForms.2.0.1.9\LICENSE.txt" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Mdb.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Mdb.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Pdb.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Pdb.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Rocks.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\net40\Mono.Cecil.Rocks.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Mdb.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Mdb.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Pdb.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Pdb.pdb" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Rocks.dll" />
+    <Content Include="packages\Mono.Cecil.0.11.2\lib\netstandard2.0\Mono.Cecil.Rocks.pdb" />
+    <Content Include="packages\NuGet.CommandLine.5.7.1\tools\NuGet.exe" />
+    <Content Include="packages\NuGet.CommandLine.5.7.1\tools\NuGet.pdb" />
+    <Content Include="packages\SharpCompress.0.17.1\lib\net35\SharpCompress.dll" />
+    <Content Include="packages\SharpCompress.0.17.1\lib\net45\SharpCompress.dll" />
+    <Content Include="packages\SharpCompress.0.17.1\lib\netstandard1.0\SharpCompress.dll" />
+    <Content Include="packages\SharpCompress.0.17.1\lib\netstandard1.3\SharpCompress.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\lib\Net45\NuGet.Squirrel.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\lib\Net45\NuGet.Squirrel.pdb" />
+    <Content Include="packages\squirrel.windows.2.0.1\lib\Net45\Squirrel.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\lib\Net45\Squirrel.pdb" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\7z.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\7z.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\candle.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\light.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\Microsoft.Deployment.Resources.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\Microsoft.Deployment.WindowsInstaller.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\rcedit.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\Setup.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\signtool.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\Squirrel-Mono.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\Squirrel.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\StubExecutable.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\SyncReleases.exe" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\wconsole.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\winterop.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\wix.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\WixNetFxExtension.dll" />
+    <Content Include="packages\squirrel.windows.2.0.1\tools\WriteZipToSetup.exe" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\net461\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\netstandard1.1\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\netstandard1.1\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\netstandard2.0\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\lib\netstandard2.0\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\LICENSE.TXT" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\net45\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\net45\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\netstandard1.1\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\netstandard1.1\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\netstandard2.0\System.Buffers.dll" />
+    <Content Include="packages\System.Buffers.4.5.1\ref\netstandard2.0\System.Buffers.xml" />
+    <Content Include="packages\System.Buffers.4.5.1\THIRD-PARTY-NOTICES.TXT" />
+    <Content Include="packages\System.Buffers.4.5.1\useSharedDesignerContext.txt" />
+    <Content Include="packages\System.Buffers.4.5.1\version.txt" />
+    <Content Include="packages\System.Memory.4.5.4\lib\net461\System.Memory.dll" />
+    <Content Include="packages\System.Memory.4.5.4\lib\net461\System.Memory.xml" />
+    <Content Include="packages\System.Memory.4.5.4\lib\netstandard1.1\System.Memory.dll" />
+    <Content Include="packages\System.Memory.4.5.4\lib\netstandard1.1\System.Memory.xml" />
+    <Content Include="packages\System.Memory.4.5.4\lib\netstandard2.0\System.Memory.dll" />
+    <Content Include="packages\System.Memory.4.5.4\lib\netstandard2.0\System.Memory.xml" />
+    <Content Include="packages\System.Memory.4.5.4\LICENSE.TXT" />
+    <Content Include="packages\System.Memory.4.5.4\THIRD-PARTY-NOTICES.TXT" />
+    <Content Include="packages\System.Memory.4.5.4\useSharedDesignerContext.txt" />
+    <Content Include="packages\System.Memory.4.5.4\version.txt" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\netstandard1.0\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\netstandard1.0\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\netstandard2.0\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\netstandard2.0\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\LICENSE.TXT" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\net45\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\net45\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\net46\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\net46\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\netstandard1.0\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\netstandard1.0\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\netstandard2.0\System.Numerics.Vectors.dll" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\ref\netstandard2.0\System.Numerics.Vectors.xml" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\THIRD-PARTY-NOTICES.TXT" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\useSharedDesignerContext.txt" />
+    <Content Include="packages\System.Numerics.Vectors.4.5.0\version.txt" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\LICENSE.TXT" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\net461\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\net461\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\netstandard1.0\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\ref\netstandard2.0\System.Runtime.CompilerServices.Unsafe.xml" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\THIRD-PARTY-NOTICES.TXT" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\useSharedDesignerContext.txt" />
+    <Content Include="packages\System.Runtime.CompilerServices.Unsafe.4.5.3\version.txt" />
+    <None Include="Resources\clean_green.png" />
+    <None Include="Resources\pencil_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\EXIN\FileContentIndex\merges\" />
+    <Folder Include=".vs\EXIN\v16\" />
+    <Folder Include=".vs\EXIN\v17\" />
+    <Folder Include="bin\Debug\Resources\Login\" />
+    <Folder Include="bin\Debug\Resources\Splashscreen\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\squirrel.windows.2.0.1\build\squirrel.windows.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\squirrel.windows.2.0.1\build\squirrel.windows.props'))" />
+  </Target>
+</Project>
